@@ -1,2 +1,1 @@
-# ProyectoSeminario
-Selector de Hora y Fecha en Android Studio
+https://www.youtube.com/watch?v=RzrXkzRv0so
